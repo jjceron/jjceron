@@ -1,3 +1,4 @@
+```md
 <h1 align="center">Jhonatan Javier Cerón Ordoñez</h1>
 
 <h3 align="center">
@@ -13,86 +14,74 @@ Machine Learning · Signal Processing · Biosignal Analysis
 
 ---
 
-I am an Electrical Engineer and M.Sc. candidate focused on signal processing, biosignal analysis, and machine learning methods for scientific and biomedical applications.
+I am an Electrical Engineer and M.Sc. candidate interested in machine learning and deep learning for signal processing and biosignal analysis.
 
-My main interests are the use of machine learning and deep learning to build, train, evaluate, and understand models for classification and regression tasks involving biosignals and physiological data.
-
-I use GitHub as a research-oriented portfolio for code, experiments, reproducible pipelines, signal processing workflows, and machine learning models applied to biomedical and scientific problems.
+My work focuses on building, training, evaluating, and understanding models for classification and regression tasks using physiological and biomedical signals.
 
 ---
 
-## Research interests
+## Research focus
 
 - Signal processing and biosignal analysis
-- Machine learning for biomedical data
-- Deep learning for classification and regression tasks
-- Physiological signal modeling
-- Feature extraction and representation learning
-- Explainable and interpretable machine learning
-- Multimodal signal analysis
-- Model evaluation, validation, and reproducibility
-- Statistical learning and advanced machine learning theory
+- Machine learning and deep learning for biomedical data
+- Classification, regression, and predictive modeling
+- Feature extraction, representation learning, and time-series analysis
+- CNNs, RNNs, Transformers, and attention-based models
+- Self-supervised, semi-supervised, and multimodal learning
+- Probabilistic modeling, Bayesian methods, Gaussian processes, and kernel methods
+- Optimization, statistical learning theory, and model generalization
+- Explainable AI, uncertainty estimation, and robust model validation
+- Reproducible research and scientific computing
 
 ---
 
-## Main focus
+## Tools and technologies
 
-My work is centered on developing computational pipelines for biosignal and biomedical data analysis. This includes preprocessing, feature extraction, model training, classification, regression, validation, and interpretation of machine learning and deep learning models.
-
-I am particularly interested in models that are not only accurate, but also understandable, reproducible, and useful for scientific insight.
-
----
-
-## Selected projects
-
-### [MultimodalAnalysis](https://github.com/jjceron/MultimodalAnalysis)
-
-Research-oriented repository for multimodal signal analysis and machine learning experiments.  
-This project is aligned with my main interest in combining signal processing, machine learning, and deep learning methods for classification, regression, and model interpretation.
-
-### [FireDrones](https://github.com/jjceron/FireDrones)
-
-Simulation project involving autonomous agents, path planning, task allocation, and decision-making.  
-Although not directly focused on biosignals, it reflects my interest in applied artificial intelligence, optimization, and computational modeling.
-
-### [SpeechGraph](https://github.com/jjceron/SpeechGraph)
-
-Graph-based analysis of transcribed speech for behavioral and cognitive modeling.  
-This is a complementary project related to signal-derived representations, graph analysis, and machine learning-based interpretation.
-
-### [Advanced ML Slides](https://github.com/jjceron/advanced-ml-slides)
-
-Curated material on advanced machine learning topics, including deep learning, optimization, probabilistic modeling, reinforcement learning, Gaussian processes, MCMC, variational inference, fairness, interpretability, and learning theory.
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
 ---
 
-## Technical stack
+## Selected repositories
 
-**Languages:** Python, MATLAB, LaTeX  
-
-**Machine learning:** scikit-learn, PyTorch, TensorFlow/Keras  
-
-**Signal processing:** SciPy, NumPy, MATLAB  
-
-**Data analysis:** pandas, NumPy, SciPy  
-
-**Visualization:** matplotlib, seaborn, plotly  
-
-**Graph analysis:** NetworkX  
-
-**Research writing:** LaTeX, TikZ, Markdown  
+- [MultimodalAnalysis](https://github.com/jjceron/MultimodalAnalysis) — Machine learning pipelines for multimodal signal and biosignal analysis.
+- [Advanced ML Slides](https://github.com/jjceron/advanced-ml-slides) — Curated material on advanced machine learning theory and methods.
+- [SpeechGraph](https://github.com/jjceron/SpeechGraph) — Complementary work on graph-based analysis of speech-derived data.
 
 ---
 
 ## Academic profiles
 
-- [Google Scholar](https://scholar.google.com/citations?user=9qBujJ8AAAAJ&hl=en)
-- [ORCID](https://orcid.org/0009-0009-7320-4809)
-- [CvLAC](https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0002114961)
-- [LinkedIn](https://www.linkedin.com/in/ceron-ordonez-j-j/)
+<p align="left">
+  <a href="https://scholar.google.com/citations?user=9qBujJ8AAAAJ&hl=en">
+    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" />
+  </a>
+  <a href="https://orcid.org/0009-0009-7320-4809">
+    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" />
+  </a>
+  <a href="https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0002114961">
+    <img src="https://img.shields.io/badge/CvLAC-003366?style=for-the-badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/ceron-ordonez-j-j/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 ## Contact
 
-For research collaboration, academic projects, or machine learning applications in signal processing and biosignal analysis, feel free to reach out through LinkedIn or GitHub.
+For research collaboration or academic work related to machine learning, signal processing, and biosignal analysis, feel free to reach out through [LinkedIn](https://www.linkedin.com/in/ceron-ordonez-j-j/).
+```
