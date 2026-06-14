@@ -93,7 +93,7 @@ I am an Electrical Engineer and M.Sc. candidate focused on machine learning and 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
   <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" alt="latex" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="latex"/>
   </a>
 </p>
 
@@ -103,13 +103,13 @@ I am an Electrical Engineer and M.Sc. candidate focused on machine learning and 
 
 <ul>
   <li>
-    <a href="https://github.com/jjceron/MultimodalAnalysis"><strong>MultimodalAnalysis</strong></a> — Machine learning pipelines for multimodal signal and biosignal analysis.
+    <a href="https://github.com/jjceron/MultimodalAnalysis"><strong>multimodal-analysis</strong></a> — Machine learning pipelines for multimodal signal and biosignal analysis.
   </li>
   <li>
     <a href="https://github.com/jjceron/advanced-ml-slides"><strong>advanced-ml-slides</strong></a> — Curated material on advanced machine learning theory and methods.
   </li>
   <li>
-    <a href="https://github.com/jjceron/SpeechGraph"><strong>SpeechGraph</strong></a> — Complementary work on graph-based analysis of speech-derived data.
+    <a href="https://github.com/jjceron/SpeechGraph"><strong>speech-graph</strong></a> — Complementary work on graph-based analysis of speech-derived data.
   </li>
 </ul>
 
