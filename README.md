@@ -6,10 +6,6 @@
 I am an Electrical Engineer and M.Sc. candidate focused on machine learning and deep learning for signal processing, biosignal analysis, and biomedical data modeling.
 </p>
 
-<p align="center">
-My work focuses on building, training, evaluating, and understanding models for classification and regression tasks using physiological and biomedical signals.
-</p>
-
 ---
 
 <h3 align="left">Research Focus</h3>
