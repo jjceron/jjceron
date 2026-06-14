@@ -95,6 +95,9 @@ I am an Electrical Engineer and M.Sc. candidate focused on machine learning and 
   <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=latex" alt="latex" width="40" height="40"/>
   </a>
+  <a href="https://www.overleaf.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=latex" alt="overleaf" width="40" height="40"/>
+  </a>
 </p>
 
 ---
