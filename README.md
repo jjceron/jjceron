@@ -93,7 +93,7 @@ I am an Electrical Engineer and M.Sc. candidate focused on machine learning and 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
   <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/373986/latex.svg" alt="latex" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=latex" alt="latex" width="40" height="40"/>
   </a>
 </p>
 
