@@ -28,8 +28,8 @@ I am an Electrical Engineer and M.Sc. candidate focused on machine learning and 
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-  <a href="https://scholar.google.com/citations?user=9qBujJ8AAAAJ&hl=en" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"/>
+  <a href="https://www.linkedin.com/in/ceron-ordonez-j-j/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://orcid.org/0009-0009-7320-4809" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/>
@@ -37,8 +37,8 @@ I am an Electrical Engineer and M.Sc. candidate focused on machine learning and 
   <a href="https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0002114961" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/CvLAC-003366?style=for-the-badge" alt="CvLAC"/>
   </a>
-  <a href="https://www.linkedin.com/in/ceron-ordonez-j-j/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://scholar.google.com/citations?user=9qBujJ8AAAAJ&hl=en" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"/>
   </a>
 </p>
 
