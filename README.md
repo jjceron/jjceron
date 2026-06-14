@@ -92,11 +92,8 @@ I am an Electrical Engineer and M.Sc. candidate focused on machine learning and 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
-  <a href="https://www.overleaf.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/overleaf.svg" alt="overleaf" width="40" height="40"/>
-  </a>
-  <a href="https://www.overleaf.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/374080/overleaf.svg" alt="overleaf" width="40" height="40"/>
+  <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/373986/latex.svg" alt="latex" width="40" height="40"/>
   </a>
 </p>
 
