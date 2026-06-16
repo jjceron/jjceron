@@ -1,12 +1,4 @@
-<h1 align="center">Hi, I'm Javier</h1>
-
 <h3 align="center">Machine Learning Research · Signal Processing · Biosignal Analysis</h3>
-
-<p align="center">
-I am an Electrical Engineer and M.Sc. candidate focused on machine learning and deep learning for signal processing, biosignal analysis, and biomedical data modeling.
-</p>
-
----
 
 <h3 align="left">Research Focus</h3>
 
