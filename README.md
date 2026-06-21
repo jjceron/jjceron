@@ -1,4 +1,4 @@
-<h3 align="center">Machine Learning Research · Signal Processing · Biosignal Analysis</h3>
+<h3 align="center">Machine Learning Research · Signal Processing · Statistical Modeling</h3>
 
 <h3 align="left">Research Focus</h3>
 
