@@ -94,5 +94,5 @@
 <h3 align="left">Contact:</h3>
 
 <p>
-For research collaboration or academic work related to machine learning, signal processing, and biosignal analysis, feel free to reach out through <a href="https://www.linkedin.com/in/ceron-ordonez-j-j/">LinkedIn</a>.
+For research collaboration or academic work related to machine learning, signal processing, and biosignal analysis, feel free to reach out through <a href="mailto:javier.ceron@utp.edu.co">javier.ceron@utp.edu.co</a>.
 </p>
