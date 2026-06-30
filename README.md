@@ -107,14 +107,6 @@
 
 ---
 
-<h3 align="left">GitHub Stats:</h3>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jjceron&show_icons=true&locale=en&layout=compact" alt="jjceron" />
-</p>
-
----
-
 <h3 align="left">Contact:</h3>
 
 <p>
