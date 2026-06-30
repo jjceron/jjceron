@@ -91,22 +91,6 @@
 
 ---
 
-<h3 align="left">Selected Repositories:</h3>
-
-<ul>
-  <li>
-    <a href="https://github.com/jjceron/MultimodalAnalysis"><strong>multimodal-analysis</strong></a> — Machine learning pipelines for multimodal signal and biosignal analysis.
-  </li>
-  <li>
-    <a href="https://github.com/jjceron/advanced-ml-slides"><strong>advanced-ml-slides</strong></a> — Curated material on advanced machine learning theory and methods.
-  </li>
-  <li>
-    <a href="https://github.com/jjceron/SpeechGraph"><strong>speech-graph</strong></a> — Complementary work on graph-based analysis of speech-derived data.
-  </li>
-</ul>
-
----
-
 <h3 align="left">Contact:</h3>
 
 <p>
