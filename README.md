@@ -308,12 +308,6 @@ Reusable scientific computing utilities designed to support reproducible machine
 
 </p>
 
-<p align="center">
-
-<img width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jjceron&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
 ---
 
 # Contribution Activity
