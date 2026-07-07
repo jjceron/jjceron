@@ -55,13 +55,15 @@ My current interests include representation learning, uncertainty-aware AI, mult
 
 # Technical Stack
 
-## Programming Languages
+## Programming Languages 
 
 <p align="left">
 
 <img src="https://skillicons.dev/icons?i=python,matlab,bash"/>
 
 </p>
+
+## Scientific Ecosystem
 
 <p align="left">
 
