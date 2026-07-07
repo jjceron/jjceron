@@ -451,15 +451,15 @@ Reusable scientific computing utilities designed to support reproducible machine
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=jjceron&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&rank_icon=github"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jjceron&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&rank_icon=github"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=jjceron&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://streak-stats.demolab.com?user=jjceron&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjceron&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jjceron&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -469,7 +469,7 @@ Reusable scientific computing utilities designed to support reproducible machine
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=jjceron&theme=algolia&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=jjceron&theme=tokyonight&no-frame=true&margin-w=15&column=4"/>
 
 </p>
 
@@ -479,8 +479,7 @@ Reusable scientific computing utilities designed to support reproducible machine
 
 <p align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jjceron&theme=tokyo-night&hide_border=true&radius=12"/>
-
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jjceron&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
