@@ -1,5 +1,5 @@
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4F46E5,30:6366F1,60:7C3AED,100:9333EA&text=Javier%20Cerón&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20Researcher%20|%20Biomedical%20Signal%20Processing%20|%20Statistical%20Learning&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4F46E5,30:6366F1,60:7C3AED,100:9333EA&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20Researcher%20|%20Biomedical%20Signal%20Processing%20|%20Statistical%20Learning&descAlignY=58"/>
 </p>
 
 <p align="center">
