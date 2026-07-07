@@ -12,41 +12,10 @@
 
 <p align="center">
 
-![](https://img.shields.io/badge/Researcher-Biomedical%20AI-6D28D9?style=for-the-badge)
-
-![](https://img.shields.io/badge/Machine-Learning-4F46E5?style=for-the-badge)
-
-![](https://img.shields.io/badge/Deep-Learning-7C3AED?style=for-the-badge)
-
-![](https://img.shields.io/badge/Statistical-Modeling-5B21B6?style=for-the-badge)
-
-![](https://img.shields.io/badge/Open-Science-4338CA?style=for-the-badge)
+![](https://img.shields.io/badge/Research%20Scientist-6D28D9?style=for-the-badge) ![](https://img.shields.io/badge/Machine%20Learning-5B21B6?style=for-the-badge) ![](https://img.shields.io/badge/Deep%20Learning-7C3AED?style=for-the-badge) ![](https://img.shields.io/badge/Statistical%20Modeling-6366F1?style=for-the-badge) ![](https://img.shields.io/badge/Open%20Science-4F46E5?style=for-the-badge)
 
 </p>
 
-<p align="center">
-
-<a href="https://www.linkedin.com/in/ceron-ordonez-j-j/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://scholar.google.com/citations?user=9qBujJ8AAAAJ&hl=en">
-<img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"/>
-</a>
-
-<a href="https://orcid.org/0009-0009-7320-4809">
-<img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/>
-</a>
-
-<a href="https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0002114961">
-<img src="https://img.shields.io/badge/CvLAC-003366?style=for-the-badge"/>
-</a>
-
-<a href="mailto:javier.ceron@utp.edu.co">
-<img src="https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
 
 ---
 
@@ -83,7 +52,7 @@ My current interests include representation learning, uncertainty-aware AI, mult
 - Foundation Models for Healthcare
 - Time-Series Forecasting
 - Representation Learning
-- Scientific Machine Learning
+- Multimodal Machine Learning
 - AI for Medical Decision Support
 
 ---
@@ -102,35 +71,20 @@ My current interests include representation learning, uncertainty-aware AI, mult
 
 ## Machine Learning & AI
 
-<p>
+<p align="left">
 
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv"/>
 
 </p>
 
-**Libraries**
+<p align="left">
 
-- NumPy
-- SciPy
-- Pandas
-- Scikit-Learn
-- Matplotlib
-- Seaborn
-- Keras
+<img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,scipy,pandas,sklearn,matplotlib,seaborn,jupyter,keras"/>
+
+</p>
 
 ---
 
-## Scientific Computing
-
-- Optimization
-- Statistical Modeling
-- Bayesian Inference
-- Gaussian Processes
-- Time-Series Analysis
-- Feature Engineering
-- Scientific Visualization
-
----
 
 ## Development Tools
 
@@ -139,50 +93,6 @@ My current interests include representation learning, uncertainty-aware AI, mult
 <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,latex,docker"/>
 
 </p>
-
----
-
-# Research Expertise
-
-| Domain | Proficiency | Research Focus |
-|:--------|:-----------:|:---------------|
-| Machine Learning | ★★★★★ | Predictive Modeling |
-| Deep Learning | ★★★★★ | Neural Networks |
-| Biomedical AI | ★★★★★ | Biosignal Intelligence |
-| Signal Processing | ★★★★★ | EEG / ECG Analysis |
-| Statistical Learning | ★★★★★ | Bayesian Modeling |
-| Scientific Computing | ★★★★★ | Reproducible Research |
-| Python Ecosystem | ★★★★★ | End-to-End Research Pipelines |
-| Explainable AI | ★★★★☆ | Trustworthy Models |
-
----
-
-# Current Focus
-
-```yaml
-Research:
-  - Biomedical Signal Processing
-  - Explainable Artificial Intelligence
-  - Statistical Machine Learning
-  - Time-Series Representation Learning
-
-Learning:
-  - Foundation Models
-  - Multimodal Learning
-  - Bayesian Deep Learning
-  - Scientific ML
-
-Building:
-  - Open-source Research Tools
-  - Reproducible ML Pipelines
-  - Biomedical AI Models
-
-Open To:
-  - Research Collaborations
-  - Academic Projects
-  - Open Source
-  - International Research Networks
-```
 
 ---
 
@@ -352,65 +262,6 @@ Reusable scientific computing utilities designed to support reproducible machine
 
 ---
 
-# Research Interests
-
-| Primary Area | Topics |
-|---------------|--------|
-| Artificial Intelligence | Machine Learning · Deep Learning |
-| Biomedical Engineering | Biosignal Analysis |
-| Statistical Learning | Bayesian Methods · Gaussian Processes |
-| Signal Processing | Time-Series Analysis |
-| Explainable AI | Trustworthy Machine Learning |
-| Scientific Computing | Reproducible Research |
-| Optimization | Model Generalization |
-| Data Science | Predictive Analytics |
-
----
-
-# Selected Expertise
-
-| Domain | Experience |
-|----------|------------|
-| Machine Learning | Predictive Modeling and Pattern Recognition |
-| Deep Learning | CNNs, RNNs, Transformers |
-| Biomedical AI | EEG, ECG, EMG Analysis |
-| Signal Processing | Time-Series Processing |
-| Statistical Learning | Bayesian Inference |
-| Scientific Computing | Research Software Development |
-| Python Ecosystem | Scientific Programming |
-| Explainable AI | Model Interpretability |
-
----
-
-# Academic Achievements
-
-<div align="center">
-
-| Recognition | Details |
-|--------------|---------|
-| Machine Learning | Research and development of predictive models |
-| Biomedical AI | Intelligent analysis of physiological signals |
-| Scientific Computing | Reproducible computational research |
-| Statistical Modeling | Probabilistic and statistical inference |
-| Open Science | Research reproducibility and collaboration |
-| Data Analysis | Advanced analytical methodologies |
-
-</div>
-
----
-
-# Certifications
-
-## Artificial Intelligence & Machine Learning
-
-![](https://img.shields.io/badge/Machine_Learning-Research-6D28D9?style=for-the-badge)
-
-![](https://img.shields.io/badge/Deep_Learning-Neural_Networks-4F46E5?style=for-the-badge)
-
-![](https://img.shields.io/badge/Statistical_Learning-Bayesian_Methods-7C3AED?style=for-the-badge)
-
----
-
 ## Scientific Computing
 
 ![](https://img.shields.io/badge/Python-Scientific_Computing-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -465,21 +316,12 @@ Reusable scientific computing utilities designed to support reproducible machine
 
 ---
 
-# GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=jjceron&theme=tokyonight&no-frame=true&margin-w=15&column=4"/>
-
-</p>
-
----
-
 # Contribution Activity
 
 <p align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jjceron&theme=tokyo-night&hide_border=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jjceron&theme=tokyo-night&hide_border=true&hide_title=true&radius=12&area=true"/>
+
 </p>
 
 ---
@@ -491,44 +333,6 @@ Reusable scientific computing utilities designed to support reproducible machine
 <img src="https://raw.githubusercontent.com/jjceron/jjceron/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
-
----
-
-# Current Focus
-
-```yaml
-Research:
-  - Machine Learning for Biomedical Applications
-  - Statistical Learning Theory
-  - Deep Learning for Time-Series Analysis
-  - Explainable Artificial Intelligence
-  - Representation Learning
-
-Learning:
-  - Bayesian Deep Learning
-  - Foundation Models
-  - Scientific Machine Learning
-  - Multimodal Learning
-  - Probabilistic Programming
-
-Building:
-  - Reproducible Research Pipelines
-  - Open-Source Machine Learning Libraries
-  - Biomedical Signal Processing Frameworks
-  - Scientific Computing Tools
-
-Exploring:
-  - Trustworthy AI
-  - Gaussian Processes
-  - Self-Supervised Learning
-  - Healthcare AI
-
-Open To:
-  - Research Collaborations
-  - Academic Partnerships
-  - Open Source Contributions
-  - International Research Projects
-```
 
 ---
 
