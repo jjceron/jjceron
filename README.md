@@ -451,15 +451,15 @@ Reusable scientific computing utilities designed to support reproducible machine
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&rank_icon=github"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=jjceron&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&rank_icon=github"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=jjceron&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjceron&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -469,7 +469,7 @@ Reusable scientific computing utilities designed to support reproducible machine
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=jjceron&theme=algolia&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=4"/>
 
 </p>
 
@@ -479,7 +479,7 @@ Reusable scientific computing utilities designed to support reproducible machine
 
 <p align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&radius=12"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jjceron&theme=tokyo-night&hide_border=true&radius=12"/>
 
 </p>
 
@@ -489,7 +489,7 @@ Reusable scientific computing utilities designed to support reproducible machine
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/jjceron/jjceron/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
@@ -565,7 +565,7 @@ Open To:
 <img src="https://img.shields.io/badge/LinkedIn-Javier%20Cer%C3%B3n-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/jjceron">
 <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
