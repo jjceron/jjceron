@@ -63,6 +63,12 @@ My current interests include representation learning, uncertainty-aware AI, mult
 
 </p>
 
+<p align="left">
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,scipy,pandas,sklearn,matplotlib,seaborn,jupyter,keras"/>
+
+</p>
+
 ---
 
 ## Machine Learning & AI
@@ -70,12 +76,6 @@ My current interests include representation learning, uncertainty-aware AI, mult
 <p align="left">
 
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv"/>
-
-</p>
-
-<p align="left">
-
-<img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,scipy,pandas,sklearn,matplotlib,seaborn,jupyter,keras"/>
 
 </p>
 
