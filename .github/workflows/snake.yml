@@ -46,7 +46,7 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-          year: 2026
+          year: 2025
 
       - name: Deploy to Output Branch
         uses: crazy-max/ghaction-github-pages@v4
