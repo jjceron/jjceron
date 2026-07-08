@@ -99,15 +99,7 @@ My current interests include representation learning, uncertainty-aware AI, mult
 ## Research Profiles
 
 <p align="center">
-  <a href="https://scholar.google.com/citations?user=9qBujJ8AAAAJ&hl=en">
-    <img src="https://img.shields.io/badge/Google_Scholar-Publications-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"/>
-  </a>
-  <a href="https://orcid.org/0009-0009-7320-4809">
-    <img src="https://img.shields.io/badge/ORCID-Research_Profile-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/>
-  </a>
-  <a href="https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0002114961">
-    <img src="https://img.shields.io/badge/CvLAC-Colombia-003366?style=for-the-badge"/>
-  </a>
+  <a href="https://scholar.google.com/citations?user=9qBujJ8AAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-Publications-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"/></a> <a href="https://orcid.org/0009-0009-7320-4809"><img src="https://img.shields.io/badge/ORCID-Research_Profile-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/></a> <a href="https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0002114961"><img src="https://img.shields.io/badge/CvLAC-Colombia-003366?style=for-the-badge"/></a>
 </p>
 
 ---
