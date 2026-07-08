@@ -10,6 +10,8 @@
 
 </p>
 
+---
+
 # About Me
 
 I am a **Machine Learning Researcher** focused on the development of intelligent methods for biomedical signal analysis, statistical learning, and scientific computing.
@@ -184,6 +186,8 @@ My current interests include representation learning, uncertainty-aware AI, mult
 <img src="https://raw.githubusercontent.com/jjceron/jjceron/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
+
+---
 
 # Publications & Research Profiles
 
