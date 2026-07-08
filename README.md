@@ -1,7 +1,5 @@
 <p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=40&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Machine+Learning+Researcher;Biomedical+Signal+Processing;Deep+Learning+%7C+Statistical+Modeling;Scientific+Computing+%7C+AI+Research;Reproducible+Research+and+Open+Science"/>
-
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=40&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Machine+Learning+Researcher;Biomedical+Signal+Processing;Deep+Learning+%7C+Statistical+Modeling;Scientific+Computing+%7C+AI+Research;Reproducible+Research+and+Open+Science"/>
 </p>
 
 <p align="center">
@@ -22,29 +20,19 @@ My current interests include representation learning, uncertainty-aware AI, mult
 
 ---
 
-# Research Areas
+# Research Areas & Core Interests
 
-| Area | Focus |
-|:------|:------|
-| Machine Learning | Classification, Regression, Ensemble Learning |
-| Deep Learning | CNNs, RNNs, Transformers, Attention Models |
-| Biomedical AI | EEG, ECG, EMG, Biosignal Analysis |
-| Signal Processing | Feature Extraction, Time-Series Analysis |
-| Statistical Learning | Bayesian Models, Gaussian Processes |
-| Representation Learning | Self-Supervised Learning, Contrastive Learning |
-| Explainable AI | Model Interpretation, Trustworthy AI |
-| Scientific Computing | Reproducible Research, High Performance Computing |
+| Core Field | Research & Application Focus |
+|:---|:---|
+| **Machine Learning** | Supervised/Unsupervised Learning, Ensemble Methods, Statistical Modeling |
+| **Deep Learning** | CNNs, RNNs, Transformers, Attention Mechanisms, Foundation Models |
+| **Biomedical AI** | Advanced Biosignal Analysis (EEG, ECG, EMG) & Clinical Decision Support |
+| **Signal Processing** | Time-Series Forecasting, Automated Feature Extraction, Spectral Analysis |
+| **Statistical Learning** | Bayesian Inference, Gaussian Processes, Probabilistic Architectures |
+| **Representation Learning** | Self-Supervised Learning, Contrastive Learning, Multimodal Alignment |
+| **Trustworthy AI** | Explainable AI (XAI), Model Interpretation, Uncertainty-Aware Machine Learning |
+| **Scientific Computing** | High-Performance Computing, Reproducible Workflows, Open Science |
 
-# Current Interests
-
-- Biomedical Signal Processing
-- Statistical Machine Learning
-- Explainable Artificial Intelligence
-- Foundation Models for Healthcare
-- Time-Series Forecasting
-- Representation Learning
-- Multimodal Machine Learning
-- AI for Medical Decision Support
 
 ---
 
@@ -87,72 +75,39 @@ My current interests include representation learning, uncertainty-aware AI, mult
 # Professional Experience
 
 ## Graduate Researcher
-
 **Machine Learning • Biomedical Signal Processing • Scientific Computing**
 
-**Research Areas**
+### Key Responsibilities & Contributions
+- **AI Modeling:** Designed, trained, and evaluated machine learning and deep learning architectures for complex classification and regression tasks.
+- **Biosignal Engineering:** Developed end-to-end signal processing pipelines and automated feature extraction workflows for biomedical datasets.
+- **Reproducible Research:** Built robust, scalable, and fully documented scientific computing workflows utilizing Git and open-source ecosystems.
+- **Statistical Rigor:** Performed rigorous experimental evaluations, statistical analyses, and validation metrics on multidimensional data.
+- **Technical Communication:** Authored comprehensive research documentation, structured technical reports, and collaborated in multidisciplinary scientific clusters.
 
-- Machine Learning
-- Statistical Learning
-- Biomedical Artificial Intelligence
-- Deep Learning
-- Signal Processing
-- Scientific Computing
-
-### Responsibilities
-
-- Design and implementation of machine learning models.
-- Development of reproducible scientific workflows.
-- Statistical analysis of biomedical datasets.
-- Signal processing and feature engineering.
-- Experimental evaluation and model validation.
-- Scientific programming using Python.
-- Research documentation and technical writing.
-- Collaboration on interdisciplinary research projects.
-
-### Technical Skills
-
-`Python`
-`Machine Learning`
-`Deep Learning`
-`Signal Processing`
-`Scientific Computing`
-`Statistical Modeling`
-`PyTorch`
-`TensorFlow`
-`Scikit-Learn`
-`NumPy`
-`SciPy`
-`Pandas`
-`Linux`
-`Git`
+### Specialized Skillset
+`Python` `PyTorch` `TensorFlow` `Scikit-Learn` `NumPy` `SciPy` `Pandas` `Statistical Modeling` `Time-Series Analysis` `Linux Deployment`
 
 ## Scientific Computing
 
-![](https://img.shields.io/badge/Python-Scientific_Computing-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-![](https://img.shields.io/badge/Linux-Research_Environment-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-![](https://img.shields.io/badge/Git-Version_Control-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-![](https://img.shields.io/badge/LaTeX-Scientific_Writing-008080?style=for-the-badge&logo=latex&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Scientific_Computing-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-Research_Environment-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-Version_Control-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LaTeX-Scientific_Writing-008080?style=for-the-badge&logo=latex&logoColor=white"/>
+</p>
 
 # Publications & Research Profiles
 
 <p align="center">
-
-<a href="https://scholar.google.com/citations?user=9qBujJ8AAAAJ&hl=en">
-<img src="https://img.shields.io/badge/Google_Scholar-Publications-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"/>
-</a>
-
-<a href="https://orcid.org/0009-0009-7320-4809">
-<img src="https://img.shields.io/badge/ORCID-Research_Profile-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/>
-</a>
-
-<a href="https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0002114961">
-<img src="https://img.shields.io/badge/CvLAC-Colombia-003366?style=for-the-badge"/>
-</a>
-
+  <a href="https://scholar.google.com/citations?user=9qBujJ8AAAAJ&hl=en">
+    <img src="https://img.shields.io/badge/Google_Scholar-Publications-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"/>
+  </a>
+  <a href="https://orcid.org/0009-0009-7320-4809">
+    <img src="https://img.shields.io/badge/ORCID-Research_Profile-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/>
+  </a>
+  <a href="https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0002114961">
+    <img src="https://img.shields.io/badge/CvLAC-Colombia-003366?style=for-the-badge"/>
+  </a>
 </p>
 
 ---
@@ -160,17 +115,9 @@ My current interests include representation learning, uncertainty-aware AI, mult
 # GitHub Analytics
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jjceron&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&rank_icon=github"/>
-
-<img height="170" src="https://streak-stats.demolab.com?user=jjceron&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-# Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/jjceron/jjceron/output/github-contribution-grid-snake-dark.svg"/>
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jjceron&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&rank_icon=github"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=jjceron&theme=tokyonight&hide_border=true"/>
+  <img src="https://raw.githubusercontent.com/jjceron/jjceron/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
@@ -178,14 +125,13 @@ My current interests include representation learning, uncertainty-aware AI, mult
 # Connect
 
 <p align="center">
-
-<a href="mailto:javier.ceron@utp.edu.co">
-<img src="https://img.shields.io/badge/Email-javier.ceron%40utp.edu.co-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/ceron-ordonez-j-j/">
-<img src="https://img.shields.io/badge/LinkedIn-Javier%20Cer%C3%B3n-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+  <a href="mailto:javier.ceron@utp.edu.co">
+    <img src="https://img.shields.io/badge/Email-javier.ceron%40utp.edu.co-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ceron-ordonez-j-j/">
+    <img src="https://img.shields.io/badge/LinkedIn-Javier%20Cer%C3%B3n-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
 
 </p>
