@@ -12,7 +12,6 @@
 
 </p>
 
-
 ---
 
 # About Me
@@ -185,8 +184,6 @@ My current interests include representation learning, uncertainty-aware AI, mult
 
 </p>
 
----
-
 # Contribution Activity
 
 <p align="center">
@@ -195,8 +192,6 @@ My current interests include representation learning, uncertainty-aware AI, mult
 
 </p>
 
----
-
 # Contribution Snake
 
 <p align="center">
@@ -204,8 +199,6 @@ My current interests include representation learning, uncertainty-aware AI, mult
 <img src="https://raw.githubusercontent.com/jjceron/jjceron/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
-
----
 
 # Publications & Research Profiles
 
@@ -224,8 +217,6 @@ My current interests include representation learning, uncertainty-aware AI, mult
 </a>
 
 </p>
-
----
 
 # Connect
 
@@ -248,8 +239,6 @@ My current interests include representation learning, uncertainty-aware AI, mult
 </a>
 
 </p>
-
----
 
 # Research Philosophy
 
