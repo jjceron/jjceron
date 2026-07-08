@@ -257,12 +257,6 @@ My current interests include representation learning, uncertainty-aware AI, mult
 
 > *"Advancing trustworthy artificial intelligence through reproducible research, statistical rigor, and interdisciplinary collaboration."*
 
-</p>
-
----
-
-<p align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,30:6366F1,60:7C3AED,100:9333EA&height=120&section=footer"/>
 
 </p>
