@@ -96,7 +96,7 @@ My current interests include representation learning, uncertainty-aware AI, mult
   <img src="https://img.shields.io/badge/LaTeX-Scientific_Writing-008080?style=for-the-badge&logo=latex&logoColor=white"/>
 </p>
 
-# Publications & Research Profiles
+## Publications & Research Profiles
 
 <p align="center">
   <a href="https://scholar.google.com/citations?user=9qBujJ8AAAAJ&hl=en">
