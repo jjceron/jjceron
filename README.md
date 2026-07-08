@@ -137,7 +137,7 @@ My current interests include representation learning, uncertainty-aware AI, mult
 
 ![](https://img.shields.io/badge/LaTeX-Scientific_Writing-008080?style=for-the-badge&logo=latex&logoColor=white)
 
-# Academic Profiles
+# Publications & Research Profiles
 
 <p align="center">
 
@@ -151,10 +151,6 @@ My current interests include representation learning, uncertainty-aware AI, mult
 
 <a href="https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0002114961">
 <img src="https://img.shields.io/badge/CvLAC-Colombia-003366?style=for-the-badge"/>
-</a>
-
-<a href="https://www.linkedin.com/in/ceron-ordonez-j-j/">
-<img src="https://img.shields.io/badge/LinkedIn-Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </p>
@@ -188,24 +184,6 @@ My current interests include representation learning, uncertainty-aware AI, mult
 </p>
 
 ---
-
-# Publications & Research Profiles
-
-<p align="center">
-
-<a href="https://scholar.google.com/citations?user=9qBujJ8AAAAJ&hl=en">
-<img src="https://img.shields.io/badge/Google%20Scholar-Publications-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"/>
-</a>
-
-<a href="https://orcid.org/0009-0009-7320-4809">
-<img src="https://img.shields.io/badge/ORCID-Research%20Profile-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/>
-</a>
-
-<a href="https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0002114961">
-<img src="https://img.shields.io/badge/CvLAC-Minciencias-003366?style=for-the-badge"/>
-</a>
-
-</p>
 
 # Connect
 
