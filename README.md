@@ -170,7 +170,7 @@ My current interests include representation learning, uncertainty-aware AI, mult
 # Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jjceron/jjceron/output/dist/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/jjceron/jjceron/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
