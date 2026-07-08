@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=40&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Machine+Learning+Researcher;Biomedical+Signal+Processing;Deep+Learning+%7C+Statistical+Modeling;Scientific+Computing+%7C+AI+Research;Reproducible+Research+and+Open+Science"/>
-</p>
-
-<p align="center">
-
-![](https://img.shields.io/badge/Research%20Scientist-6D28D9?style=for-the-badge) ![](https://img.shields.io/badge/Machine%20Learning-5B21B6?style=for-the-badge) ![](https://img.shields.io/badge/Deep%20Learning-7C3AED?style=for-the-badge) ![](https://img.shields.io/badge/Statistical%20Modeling-6366F1?style=for-the-badge) ![](https://img.shields.io/badge/Open%20Science-4F46E5?style=for-the-badge)
-
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=48&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Machine+Learning+Researcher;Biomedical+Signal+Processing;Deep+Learning+%7C+Statistical+Modeling;Scientific+Computing+%7C+AI+Research;Reproducible+Research+and+Open+Science"/>
+  <br><br>
+  <img src="https://img.shields.io/badge/Research%20Scientist-6D28D9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-5B21B6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Statistical%20Modeling-6366F1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20Science-4F46E5?style=for-the-badge" />
 </p>
 
 ---
