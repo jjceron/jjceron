@@ -76,7 +76,7 @@ My current interests include representation learning, uncertainty-aware AI, mult
 
 ## Development Tools
 
-<p>
+<p align="left">
 
 <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,latex,docker"/>
 
@@ -167,12 +167,10 @@ My current interests include representation learning, uncertainty-aware AI, mult
 
 </p>
 
-# Contribution 
+# Contribution Snake
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/jjceron/jjceron/output/github-contribution-grid-snake-dark.svg"/>
-
+  <img src="https://raw.githubusercontent.com/jjceron/jjceron/output/dist/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
