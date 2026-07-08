@@ -134,8 +134,6 @@ My current interests include representation learning, uncertainty-aware AI, mult
 </p>
 
 
-</p>
-
 # Research Philosophy
 
 <p align="center">
