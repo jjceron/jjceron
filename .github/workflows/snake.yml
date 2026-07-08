@@ -16,7 +16,7 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Clonar SNK modificado
+      - name: Clone modified SNK
         uses: actions/checkout@v4
         with:
           repository: jjceron/snk
@@ -28,22 +28,23 @@ jobs:
         with:
           node-version: 20
 
-      - name: Instalar y Compilar Acción
+      - name: Install and Build Action
         run: |
           cd .github/actions/snk-custom
-          yarn install --frozen-lockfile
-          yarn build
+          yarn install
+          yarn workspace @snk/action build
 
-      - name: Generar Snake Animado
+      - name: Generate Animated Snake
         uses: ./.github/actions/snk-custom/packages/action
         with:
           github_user_name: jjceron
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-          year: 2025
+          year: 2026
 
-      - uses: crazy-max/ghaction-github-pages@v4
+      - name: Deploy to Output Branch
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
