@@ -4,15 +4,11 @@
 
 </p>
 
----
-
 <p align="center">
 
 ![](https://img.shields.io/badge/Research%20Scientist-6D28D9?style=for-the-badge) ![](https://img.shields.io/badge/Machine%20Learning-5B21B6?style=for-the-badge) ![](https://img.shields.io/badge/Deep%20Learning-7C3AED?style=for-the-badge) ![](https://img.shields.io/badge/Statistical%20Modeling-6366F1?style=for-the-badge) ![](https://img.shields.io/badge/Open%20Science-4F46E5?style=for-the-badge)
 
 </p>
-
----
 
 # About Me
 
@@ -36,8 +32,6 @@ My current interests include representation learning, uncertainty-aware AI, mult
 | Representation Learning | Self-Supervised Learning, Contrastive Learning |
 | Explainable AI | Model Interpretation, Trustworthy AI |
 | Scientific Computing | Reproducible Research, High Performance Computing |
-
----
 
 # Current Interests
 
@@ -70,8 +64,6 @@ My current interests include representation learning, uncertainty-aware AI, mult
 
 </p>
 
----
-
 ## Machine Learning & AI
 
 <p align="left">
@@ -79,9 +71,6 @@ My current interests include representation learning, uncertainty-aware AI, mult
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv"/>
 
 </p>
-
----
-
 
 ## Development Tools
 
@@ -136,8 +125,6 @@ My current interests include representation learning, uncertainty-aware AI, mult
 `Linux`
 `Git`
 
----
-
 ## Scientific Computing
 
 ![](https://img.shields.io/badge/Python-Scientific_Computing-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -147,8 +134,6 @@ My current interests include representation learning, uncertainty-aware AI, mult
 ![](https://img.shields.io/badge/Git-Version_Control-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ![](https://img.shields.io/badge/LaTeX-Scientific_Writing-008080?style=for-the-badge&logo=latex&logoColor=white)
-
----
 
 # Academic Profiles
 
