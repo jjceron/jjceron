@@ -201,10 +201,6 @@ My current interests include representation learning, uncertainty-aware AI, mult
 <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://scholar.google.com/citations?user=9qBujJ8AAAAJ&hl=en">
-<img src="https://img.shields.io/badge/Google%20Scholar-Research-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"/>
-</a>
-
 </p>
 
 # Research Philosophy
