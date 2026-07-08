@@ -27,8 +27,6 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: 20
-          cache: 'yarn'
-          cache-dependency-path: .github/actions/snk-custom/yarn.lock
 
       - name: Instalar y Compilar Acción
         run: |
