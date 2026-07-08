@@ -28,6 +28,11 @@ jobs:
         with:
           node-version: 20
 
+      - name: Setup Bun
+        uses: oven-sh/setup-bun@v2
+        with:
+          bun-version: latest
+
       - name: Install and Build Action
         run: |
           cd .github/actions/snk-custom
