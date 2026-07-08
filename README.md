@@ -117,12 +117,7 @@ My current interests include representation learning, uncertainty-aware AI, mult
 # Connect
 
 <p align="center">
-  <a href="mailto:javier.ceron@utp.edu.co">
-    <img src="https://img.shields.io/badge/Email-javier.ceron%40utp.edu.co-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/ceron-ordonez-j-j/">
-    <img src="https://img.shields.io/badge/LinkedIn-Javier%20Cer%C3%B3n-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+  <a href="mailto:javier.ceron@utp.edu.co"><img src="https://img.shields.io/badge/Email-javier.ceron%40utp.edu.co-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://www.linkedin.com/in/ceron-ordonez-j-j/"><img src="https://img.shields.io/badge/LinkedIn-Javier%20Cer%C3%B3n-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 
