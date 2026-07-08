@@ -167,15 +167,7 @@ My current interests include representation learning, uncertainty-aware AI, mult
 
 </p>
 
-# Contribution Activity
-
-<p align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jjceron&theme=tokyo-night&hide_border=true&hide_title=true&radius=12&area=true"/>
-
-</p>
-
-# Contribution Snake
+# Contribution 
 
 <p align="center">
 
