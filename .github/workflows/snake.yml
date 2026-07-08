@@ -40,7 +40,7 @@ jobs:
           yarn workspace @snk/action build
 
       - name: Generate Animated Snake
-        uses: ./.github/actions/snk-custom/packages/action
+        uses: ./.github/actions/snk-custom
         with:
           github_user_name: jjceron
           outputs: |
