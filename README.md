@@ -65,12 +65,13 @@ My current interests include representation learning, uncertainty-aware AI, mult
 ## Development Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,latex,docker" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,latex" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Inkscape_Logo.svg"
        alt="Inkscape"
        width="48"
        height="48"
        style="vertical-align: middle;" />
+  <img src="https://skillicons.dev/icons?i=docker" />
 </p>
 
 ---
