@@ -124,13 +124,6 @@ My current interests include representation learning, uncertainty-aware AI, mult
   <a href="mailto:javier.ceron@utp.edu.co"><img src="https://img.shields.io/badge/Email-javier.ceron%40utp.edu.co-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://www.linkedin.com/in/ceron-ordonez-j-j/"><img src="https://img.shields.io/badge/LinkedIn-Javier%20Cer%C3%B3n-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
-
-# Research Philosophy
-
-<p align="center">
-
-> *"Advancing trustworthy artificial intelligence through reproducible research, statistical rigor, and interdisciplinary collaboration."*
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,30:6366F1,60:7C3AED,100:9333EA&height=120&section=footer"/>
 
 </p>
