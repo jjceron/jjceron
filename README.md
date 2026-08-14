@@ -111,7 +111,7 @@ My current interests include representation learning, uncertainty-aware AI, mult
 # GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jjceron&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&rank_icon=github"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jjceron&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&rank_icon=github"/>
   <img height="170" src="https://streak-stats.demolab.com?user=jjceron&theme=tokyonight&hide_border=true"/>
   <img src="https://raw.githubusercontent.com/jjceron/jjceron/output/github-contribution-grid-snake-dark.svg"/>
 </p>
