@@ -108,19 +108,13 @@ My current interests include representation learning, uncertainty-aware AI, mult
 
 ---
 
-# GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jjceron&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&rank_icon=github"/>
-  <img height="170" src="https://streak-stats.demolab.com?user=jjceron&theme=tokyonight&hide_border=true"/>
-  <img src="https://raw.githubusercontent.com/jjceron/jjceron/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
 # Connect
 
 <p align="center">
   <a href="mailto:javier.ceron@utp.edu.co"><img src="https://img.shields.io/badge/Email-javier.ceron%40utp.edu.co-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://www.linkedin.com/in/ceron-ordonez-j-j/"><img src="https://img.shields.io/badge/LinkedIn-Javier%20Cer%C3%B3n-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
+
+<img src="https://raw.githubusercontent.com/jjceron/jjceron/output/github-contribution-grid-snake-dark.svg"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,30:6366F1,60:7C3AED,100:9333EA&height=120&section=footer"/>
 
